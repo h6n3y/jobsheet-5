@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PemilihanPercobaan104 {
     public static void main(String[] args) {
         
-        //Scanner
+        // Scanner
         Scanner input04 = new Scanner(System.in);
 
         System.out.println("Masukkan Bilangan:  ");
